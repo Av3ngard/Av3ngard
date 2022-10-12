@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Av3ngard/Av3ngard/blob/main/assets/header.png)
 
 
 Link to my CV
