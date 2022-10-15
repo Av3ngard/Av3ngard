@@ -20,13 +20,8 @@
 ![Header](https://img.shields.io/badge/oracle-090909?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=4aa73c)
 
-### Testing Documentation
-
-
-
 ## Scripts
-
-
-
+- [SQL Queries](https://github.com/Av3ngard/sql_scripts)
 
 ## Follow Me
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/albert-gilfanov/)
