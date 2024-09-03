@@ -1,7 +1,7 @@
 ![Header](https://github.com/Av3ngard/Av3ngard/blob/main/assets/header.png)
 ## I'm a QA Engineer
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1FztxV_lAI9uA0yPAxtDeeAI3tfxYcNGE/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1PKoNJ_L5QhUAX0ua6ll1tmbIqHiCGuxA/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=c0332d)
